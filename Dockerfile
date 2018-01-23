@@ -3,4 +3,4 @@ FROM daocloud.io/auguschen/alpine-mosquitto
 MAINTAINER Sakeven "beili@qq.com"
 
 COPY . /
-RUN cp /conf/default.con /etc/mosquitto/conf.d
+RUN cp /conf/default.conf /etc/mosquitto/conf.d
