@@ -1,4 +1,4 @@
-FROM daocloud.io/auguschen/alpine-mosquitto
+FROM  index.docker.io/ncarlier/mqtt
 
 MAINTAINER Sakeven "beili@qq.com"
 
