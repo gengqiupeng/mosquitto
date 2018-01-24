@@ -1,4 +1,4 @@
-FROM  index.docker.io/ncarlier/mqtt
+FROM eclipse-mosquitto
 
 MAINTAINER Sakeven "beili@qq.com"
 
